@@ -9,7 +9,7 @@ Type 'yarn' to download all the dependencies and node modules.
 
 After downloading all the dependencies, let's proceed to setup our environment, it is expo go setup.
 
-Just follow the steps provided by the React Native CLI documentation. https://reactnative.dev/docs/environment-setup
+Just follow the steps provided by the React Native Expo documentation. https://reactnative.dev/docs/environment-setup
 
 After setting up the environment, let's run the app.
 
